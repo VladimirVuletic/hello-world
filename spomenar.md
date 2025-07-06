@@ -1,9 +1,9 @@
 #### Spomenar
 
-Ime i prezime:
+Ime i prezime: Ognjen Vukić
 
-Omiljeni broj:
+Omiljeni broj: 1000₂
 
-Omiljena boja:
+Omiljena boja: #556b2f
 
-Nešto za kraj:
+Nešto za kraj: break;
