@@ -1,6 +1,6 @@
 #### Spomenar
 
-Ime i prezime: Ognjen Vukic
+Ime i prezime: Ognjen Vukić
 
 Omiljeni broj: 1000₂
 
