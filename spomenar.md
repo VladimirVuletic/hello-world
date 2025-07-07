@@ -9,10 +9,10 @@ Omiljena boja: #556b2f
 Nešto za kraj: break;
 
 ----
-Ime i prezime:
+Ime i prezime: Stefan Xxxxxxx
 
-Omiljeni broj:
+Omiljeni broj: 27
 
-Omiljena boja:
+Omiljena boja: Green
 
-Nešto za kraj:
+Nešto za kraj: If anyone asks, I was told I'd be paid for this — but I never was.
